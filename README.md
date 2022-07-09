@@ -10,7 +10,7 @@ This course is a professional elective of mechanical specialty. This curriculum 
 
 ## Textbooks
 
-Robotics: Modelling, Planning and Control - by Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani and Giuseppe Oriolo
+Robotics: Modelling, Planning and Control by Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani and Giuseppe Oriolo
 
 A Mathematical Introduction to Robotic Manipulation by Richard M. Murray, Zexiang Li and S. Shankar Sastry
 
@@ -58,5 +58,5 @@ Apart from the lecture slides, most materials are in Chinese. I may translate so
 
 *The copyrights of all the assignments, quizzes, and solutions (including feedbacks) are owed by Prof Ye Ding and the course TA Tengyu Hou and Pengsheng Huang.
 
-I will gradually upload the related files (codes and my solutions) as time goes on. It may take quite  long time since many of my past files are poorly organized in my current view, and I may make some modifications and comments before uploading.
+I will gradually upload the related files (codes and my solutions) as time goes on. It may take quite a long time since many of my past files are poorly organized in my current view, and I may make some modifications and comments before uploading.
 
